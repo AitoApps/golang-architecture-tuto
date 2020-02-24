@@ -1,5 +1,0 @@
-hello world
-
-glade to get started!
-
-test
